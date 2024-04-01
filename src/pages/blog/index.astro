@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '@layouts/Default.astro';
+import BlogList from '@components/blog/BlogList.astro';
+
+const posts = await getCollection('blog').then((collection) =>
+  collection.reverse()
+);
+---
+
+<Layout
+  title='Actualités'
+  description='Actualités | Atualités du PS Grand Chasseral'
+  pageTitle='PSGC'
+>
+  <main class='bg-green p-6'>
+    <BlogList posts={posts} />
+  </main>
+</Layout>
