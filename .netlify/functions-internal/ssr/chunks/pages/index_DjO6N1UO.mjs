@@ -1,7 +1,7 @@
 /* empty css                           */
 import { e as createAstro, f as createComponent, r as renderTemplate, n as renderComponent, m as maybeRenderHead, h as addAttribute } from '../astro_B-qOJv4b.mjs';
 import 'kleur/colors';
-import { g as getCollection, a as $$BlogList, b as $$Default, d as $$Card, e as $$Pill, $ as $$Button, f as $$RecentBlogPosts } from './404_hG8L3OUb.mjs';
+import { g as getCollection, a as $$BlogList, b as $$Default, d as $$Card, e as $$Pill, $ as $$Button, f as $$RecentBlogPosts } from './404_BIsCOLBv.mjs';
 import 'clsx';
 
 const $$Astro$3 = createAstro("https://localhost:3000/");
@@ -48,7 +48,7 @@ const $$Index$1 = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$Index$1;
   return renderTemplate`${renderComponent($$result, "Layout", $$Default, { "title": "Accueil", "pageTitle": "Accueil", "description": "Site internet du PS Grand Chasseral" }, { "default": ($$result2) => renderTemplate` ${maybeRenderHead()}<main class="bg-red p-6"> ${renderComponent($$result2, "MobileSocials", $$MobileSocials, {})} <section id="about" class="grid md:grid-cols-8 gap-8 mt-4"> <h2 class="hidden">Info</h2> <div class="col-span-8"> ${renderComponent($$result2, "Card", $$Card, {}, { "default": ($$result3) => renderTemplate` <div class="flex flex-col justify-between items-start gap-4"> <p class="mt-4 outfit text-2xl md:text-5xl lg:text-7xl">
-Le Bureau
+Le bureau
 </p> </div> ` })} </div> <div class="col-span-2"> ${renderComponent($$result2, "Card", $$Card, {}, { "default": ($$result3) => renderTemplate` <div class="flex flex-col justify-between items-start gap-4"> <p class="mt-4 outfit text-2xl md:text-5xl lg:text-7xl">
 Maurane Riesen
 </p> <p class="mt-2 outfit text-xl md:text-3xl lg:text-5xl">
