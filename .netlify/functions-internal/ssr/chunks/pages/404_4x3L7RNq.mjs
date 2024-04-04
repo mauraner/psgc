@@ -1172,7 +1172,7 @@ createCollectionToGlobResultMap({
 });
 
 let lookupMap = {};
-lookupMap = {"blog":{"type":"content","entries":{"blogpost-1":"/src/content/blog/blogpost-1.md","blogpost-3":"/src/content/blog/blogpost-3.md","blogpost-2":"/src/content/blog/blogpost-2.md"}}};
+lookupMap = {"blog":{"type":"content","entries":{"blogpost-1":"/src/content/blog/blogpost-1.md","blogpost-2":"/src/content/blog/blogpost-2.md","blogpost-3":"/src/content/blog/blogpost-3.md"}}};
 
 function createGlobLookup(glob) {
 	return async (collection, lookupId) => {
@@ -1183,7 +1183,7 @@ function createGlobLookup(glob) {
 	};
 }
 
-const renderEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_ClnxErpC.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_BvgZu3aF.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_rgcCw_P1.mjs')});
+const renderEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_COm3ukhW.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_HoGhTK3X.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_PEKa6KAb.mjs')});
 const collectionToRenderEntryMap = createCollectionToGlobResultMap({
 	globResult: renderEntryGlob,
 	contentDir,
