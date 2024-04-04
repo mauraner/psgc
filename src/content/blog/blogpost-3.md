@@ -1,47 +1,24 @@
 ---
-title: Les organes du PSGC
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-pubDate: 2024-02-14 23:49
-author: Elian Van Cutsem
+title: Organes et statuts du PSGC
+description: Qui sommes nous et comment sommes nous organisés
+pubDate: 3 mai 2024
+author: "PSGC"
 tags: 
-  - Francophonie
-  - Égalité femmes-hommes
-  - Salaires
+  - Socialisme
+  - Jura bernois
 imgUrl: '../../assets/paysage1.jpg'
 layout: ../../layouts/BlogPost.astro
 ---
 
-## Deorum petiit ignis
+Le PSGC est une fédération régionale du parti socialiste du canton de Berne et constitue une association au sens des articles 60 et suivants du Code civil suisse. Il dispose de statuts, intègre les sections socialistes dans le Jura bernois et leurs membres ainsi que des membres individuels.
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+Les statuts du PSGC [sont téléchargeables ici](../../public/docs/statuts_psgc_dec2023.pdf).
 
-## Iovis late orbem Perseus sunt
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+Les organes du PSGC sont : 
+- le congrès régional
+- le comité directeur
+- le bureau
+- l'organe de révision
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
-
-## Longum minus sic saepe
-
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
-
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+Le congrès régional est l’organe suprême et réunit tous les membres du PS GC. Le comité directeur est l’organe exécutif et intègre le bureau ainsi qu’un-e représentant-e des sections, les élu-e-s au Conseil exécutif, au Grand Conseil et au Conseil du Jura bernois, le préfet ou la préfète socialiste et les élu-e-s aux chambres fédérales. Le bureau est l’organe stratégique et de communication du parti. Il est composé d’une présidence, d’un-e secrétaire, d’un-e caisser-ère et d’un responsable communication.  
