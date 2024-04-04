@@ -1,47 +1,16 @@
 ---
-title: Les statuts du PSGC
-pubDate: 12/31/2024 12:05
-author: "Maurane"
+title: Assemblée constitutive du 3 mai
+pubDate: 3 mai 2024
+author: "PSGC"
 tags:
-  - Climat
-  - Exclusions
-  - Services publics
+  - Jura bernois
+  - Socialisme
 imgUrl: '../../assets/statuts.jpg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: Un nouvel élan pour le socialisme dans notre région
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+Le 3 mai 2024, à Cortébert a eu lieu une transformation majeure pour le parti socialiste : les forces socialistes, séparées jusqu’alors depuis plus de 40 ans, se réunissent sous une nouvelle entité : le Parti Socialiste Grand Chasseral (PSGC). La nouvelle fédération régionale PSGC constitue la fusion du Parti Socialiste du Jura bernois et du Parti Ensemble Socialiste. Il intègre toutes les sections socialistes, y compris Plateforme.Socialiste. L’assemblée constitutive rassemblée à Cortébert a validé les statuts et constitué les organes du parti.
+Le PSGC marque la volonté de tourner la page des divisions passées et de construire un avenir solidaire et prospère pour la région, représente un moment décisif dans l'histoire du socialisme local. Cette initiative promet de générer un nouvel élan et une énergie renouvelée, engagés pour le bien-être de la population, en faveur de davantage de justice sociale, d'égalité de solidarité et d'inclusion.
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
-
-## Iovis late orbem Perseus sunt
-
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
-
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
-
-## Longum minus sic saepe
-
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
-
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+Communiqué de presse du 3 mai 2024 [lien pdf]
