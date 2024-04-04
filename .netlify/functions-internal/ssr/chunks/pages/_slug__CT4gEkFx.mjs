@@ -1,7 +1,7 @@
 /* empty css                           */
 import { e as createAstro, f as createComponent, r as renderTemplate, n as renderComponent } from '../astro_B-qOJv4b.mjs';
 import 'kleur/colors';
-import { g as getCollection } from './404_BIsCOLBv.mjs';
+import { g as getCollection } from './404_sDCeJtTp.mjs';
 
 const $$Astro = createAstro("https://localhost:3000/");
 async function getStaticPaths() {

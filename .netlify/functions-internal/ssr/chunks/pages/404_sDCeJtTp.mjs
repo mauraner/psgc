@@ -1155,7 +1155,7 @@ function isPropagatedAssetsModule(module) {
 
 const contentDir = '/src/content/';
 
-const contentEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_DBPpYp0q.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_DJQdPfN-.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_COQa7zmn.mjs')});
+const contentEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_DZHlmCKO.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_4AtfZsyY.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_BFx4I10d.mjs')});
 const contentCollectionToEntryMap = createCollectionToGlobResultMap({
 	globResult: contentEntryGlob,
 	contentDir,
@@ -1172,7 +1172,7 @@ createCollectionToGlobResultMap({
 });
 
 let lookupMap = {};
-lookupMap = {"blog":{"type":"content","entries":{"blogpost-1":"/src/content/blog/blogpost-1.md","blogpost-3":"/src/content/blog/blogpost-3.md","blogpost-2":"/src/content/blog/blogpost-2.md"}}};
+lookupMap = {"blog":{"type":"content","entries":{"blogpost-2":"/src/content/blog/blogpost-2.md","blogpost-1":"/src/content/blog/blogpost-1.md","blogpost-3":"/src/content/blog/blogpost-3.md"}}};
 
 function createGlobLookup(glob) {
 	return async (collection, lookupId) => {
@@ -1183,7 +1183,7 @@ function createGlobLookup(glob) {
 	};
 }
 
-const renderEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_BgPCXZmI.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_DFnTqDPd.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_Dd1f2OYW.mjs')});
+const renderEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_C9ZoQBxP.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_C219_FB4.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_DBQWjxKZ.mjs')});
 const collectionToRenderEntryMap = createCollectionToGlobResultMap({
 	globResult: renderEntryGlob,
 	contentDir,
@@ -1300,7 +1300,7 @@ const $$RecentBlogPosts = createComponent(async ($$result, $$props, $$slots) => 
   const posts = await getCollection("blog").then(
     (posts2) => posts2.reverse().slice(0, count ?? 3)
   );
-  return renderTemplate`${maybeRenderHead()}<section class="mt-8"> ${renderComponent($$result, "Card", $$Card, {}, { "default": ($$result2) => renderTemplate` <div class="flex justify-between items-start"> <h2 class="text-2xl md:text-4xl lg:text-6xl mb-8 dm-serif">
+  return renderTemplate`${maybeRenderHead()}<section class="mt-8"> ${renderComponent($$result, "Card", $$Card, { "color": "lightblue" }, { "default": ($$result2) => renderTemplate` <div class="flex justify-between items-start"> <h2 class="text-2xl md:text-4xl lg:text-6xl mb-8 dm-serif">
 Actualités récentes
 </h2> <div class="hidden md:block"> ${renderComponent($$result2, "Button", $$Button, { "href": "/blog/" }, { "default": ($$result3) => renderTemplate`Actualités &rarr;` })} </div> <div class="block md:hidden"> ${renderComponent($$result2, "Button", $$Button, { "href": "/blog/" }, { "default": ($$result3) => renderTemplate`to blog` })} </div> </div> ${renderComponent($$result2, "BlogList", $$BlogList, { "posts": posts })} ` })} </section>`;
 }, "/home/julien/cloud/aides/maurane/psgc/psgc/src/components/generic/RecentBlogPosts.astro", void 0);
